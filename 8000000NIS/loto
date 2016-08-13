@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="he" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+    
+    <title>(404) דף לא קיים</title>
+    
+    <style type="text/css">
+        body { direction: rtl; background: #f7f3f7; color: #000000; font: 15px/1.231 Arial,Helvetica,sans-serif; margin: 0; }
+        div { padding: 80px 180px 0 0; width: 789px; height: 221px; background: url(/_layouts/Pais/he-il/Images/error_page.jpg) no-repeat 0 0; margin: 100px auto; }
+        h1 { color: #050E69; font-size: 26px; font-weight: bold; padding: 0; margin: 0; }
+        p { color: #171C42; padding: 0; margin: 14px 0 0 0; }
+        a { color: #C69368; text-decoration: underline; }
+        a:hover { }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>מצטערים, הדף לא קיים</h1>
+        <p>
+            ייתכן שהקלדת את הכתובת בצורה שגויה או שהדף אינו קיים עוד.
+            <br />
+            אנא נסו שוב מאוחר יותר או גלשו <a href="/">לדף הבית</a>
+        </p>
+    </div>
+</body>
+</html>
