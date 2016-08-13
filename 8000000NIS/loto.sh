@@ -53,6 +53,6 @@ fi
 # These numbers should be analized.
 # *********************************************************************************
 
-${SCRIPTS}/randomization.sh $1
+${SCRIPTS}/randomization.sh $1 $WORKSPACE
 
 

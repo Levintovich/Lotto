@@ -44,6 +44,7 @@ else
 	sed -i ${RESULTS}/outputfile.csv -e 's/,/ /19'		# To remove 19-th ,
 	sed -i ${RESULTS}/outputfile.csv -e 's/ [0-9]*//g'	# To remove last row
 	sed -i ${RESULTS}/outputfile.csv -e 's/,/| /1'		# To replace 1-st coma to |
+	sed -i ${RESULTS}/outputfile.csv -e 's/,/| /1'		# To replace 1-st coma to |
 fi
 
 
