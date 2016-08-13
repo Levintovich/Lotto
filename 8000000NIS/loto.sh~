@@ -53,6 +53,10 @@ fi
 # These numbers should be analized.
 # *********************************************************************************
 
-${SCRIPTS}/randomization.sh $1
-
+#Removing an old log file
+echo "New game: $1 `date`" > ${SCRIPTS}/logfile
+echo "*********************************************************" >> ${SCRIPTS}/logfile
+for a in `seq 1 100`; do
+	${SCRIPTS}/randomization.sh $1 $WORKSPACE
+done
 
