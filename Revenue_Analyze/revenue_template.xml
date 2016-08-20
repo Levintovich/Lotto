@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Event shelf="New Game">
+      <Date>20160815</Date>      
+      <Game title="777">
+          <Paid>63</Paid>
+          <Revenue>55</Revenue>
+      </Game>
+      <Game title="Lotto">
+          <Paid>48</Paid>
+          <Revenue>76</Revenue>
+      </Game>
+      <Date>20160817</Date>      
+      <Game title="777">
+          <Paid>21</Paid>
+          <Revenue>5</Revenue>
+      </Game>	    
+</Event>
